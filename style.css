@@ -2,7 +2,10 @@ body {
     background: pink;
     font-family: Arial, Helvetica, sans-serif;
     text-align: center;
-    color: #797474
+    color: #797474;
+    width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 body h1 {
