@@ -1,0 +1,29 @@
+body {
+    background: pink;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    color: #797474
+}
+
+body h1 {
+    color: white;
+    font-size: x-large;
+    text-shadow: rgb(122, 122, 122) 4px 3px 0px;
+}
+
+body h2 {
+    font-size: large;
+
+}
+
+body h3 {
+    font-size: medium;
+}
+
+a:link {
+    color: #ff00ff;
+}
+
+a:visited {
+    color: #7f0099;
+}
